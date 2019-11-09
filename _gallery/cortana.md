@@ -1,3 +1,4 @@
+---
 author: NikosKar23
 title: cortana
 image_url: cortana.jpg
@@ -10,3 +11,4 @@ tags:
   - Microsoft
   - AI
   - Voice Assistant
+  ---
