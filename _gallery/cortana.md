@@ -8,7 +8,7 @@ license_text: Attribution 2.0 Generic
 categories:
   - partner
 tags:
-  - Microsoft
   - AI
+  - Microsoft
   - Voice Assistant
-  ---
+---
